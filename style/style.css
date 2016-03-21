@@ -1,0 +1,17 @@
+.input-group {
+    margin: 20px 0px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.mini-stock-data {
+    padding: 0 5px 0 5px;
+}
+
+.profit {
+    color: green;
+}
+
